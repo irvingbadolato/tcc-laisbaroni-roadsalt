@@ -2,7 +2,7 @@
 
 Repositório do Trabalho de Conclusão de Curso de Engenharia Cartográfica (FEN/UERJ) da aluna Lais Baroni, onde foi desenvolvido o Plugin de QGIS nomeado como Road Salt Map Builder (RSMB).
 
-Entre os documentos, o roadsalt_mapbuilder.zip contêm todos os arquivos necessários para instalação e posterior utilização do plugin no QGIS. Para tanto, basta inserir a pasta descompactada no diretório de instalação da ferramenta, na pasta de plugins python.
+Entre os documentos, o roadsalt_mapbuilder.zip, contêm todos os arquivos necessários para instalação e posterior utilização do plugin no QGIS. Para tanto, basta inserir a pasta descompactada no diretório de instalação da ferramenta na pasta de plugins python.
 
 Também estão nesta pasta os arquivos PDF com o texto da monografia e a apresentação da defesa, um vídeo exemplificando a utilização do plugin RSMP, os dados utilizados para teste, os produtos finais gerados pelo plugin em formato shapefile e algumas imagens ilustrativas.
 

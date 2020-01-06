@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Road Salt Map Builder
+qgisMinimumVersion=3.0
+description=cria mapas que dão apoio ao estudo de impaco causado pela despejo de sal nas estradas
+version=0.1
+author=Lais Baroni UERJ
+email=laisrbaroni@gmail.com
+
+about=Esse plugin tem objetivo de dar apoio ao estudo ambiental de despejo de sal para descongelamento de estradas. Para tanto, confeciona mapas que ajudem na identificação de áreas mais afetadas. Dois mapas são possíveis: 1) dado um arquivo de estradas, um de polígonos (subbacias de uma bacia hidrográfica, por exemplo) e um tamanho fixo de buffer para as estradas, gera um arquivo com dados de proporção de área de estrada por área do polígono e gera um mapa temático correspondente 2) dado um arquivo de estradas, um de polígonos (subbacias de uma bacia hidrográfica, por exemplo) e uma tabela com a distribuição do sal no tempo (em dias e por unidade de estrada), gera um arquivo com a soma de sal despejado em cada polígono no intervalo de tempo determinao e gera um mapa temático correspondente
+
+tracker=http://bugs
+repository=http://repo
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=http://homepage
+category=Vector
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+

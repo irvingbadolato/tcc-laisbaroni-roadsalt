@@ -1,39 +1,12 @@
-# Este repositório tem o objetivo de armazenar os trabalhos desenvolvidos por Lais Baroni
+# Criação de plugin no QGIS para criação de mapas temáticos aplicados ao estudo de despejo de sal em estradas
 
-Sobre Lais Baroni
+Repositório do Trabalho de Conclusão de Curso de Engenharia Cartográfica (FEN/UERJ) da aluna Lais Baroni, onde foi desenvolvido o Plugin de QGIS nomeado como Road Salt Map Builder (RSMB).
 
-	Geofísica (UFF 2015)
+Entre os documentos, o roadsalt_mapbuilder.zip contêm todos os arquivos necessários para instalação e posterior utilização do plugin no QGIS. Para tanto, basta inserir a pasta descompactada no diretório de instalação da ferramenta, na pasta de plugins python.
 
-	Engenheira Cartógrafa (UERJ 2019)
+Também estão nesta pasta os arquivos PDF com o texto da monografia e a apresentação da defesa, um vídeo exemplificando a utilização do plugin RSMP, os dados utilizados para teste, os produtos finais gerados pelo plugin em formato shapefile e algumas imagens ilustrativas.
 
-	Cursando mestrado em Engenharia de Produção e Sistemas (CEFET)
+Destamos ainda que todo o código desenvolvido está disponibilizado para livre acesso segundo a GPL3. Caso necessário, no texto da monografia há mais detalhes sobre o desenvolvimento do plugin.
 
-	Diretora de mídia do Baroni Educar LTDA
+Créditos: O plugin foi desenvolvido pela aluna Lais Baroni sob minha orientação. Dr. Alvaro Bueno coorientou a aluna e os doutores Luiz Henrique Castiglione e Julia Strauch fizeram parte de sua banca examinadora.
 
-
-O que você vai encontrar aqui:
-
-1) Desenvolvimento de API em Python
-
-	Criação de plugin em PyQGIS, voltado para criação de mapas temáticos para estudo de despejo de sal em estradas
-
-	Projeto relacionado ao Trabalho de Conclusão de Curso de Engenharia Cartográfica
-
-
-2) Desenvolvimento de API em VBA
-
-	Sistemas de cadastro
-
-	Produto desenvolvido para a Instituição Baroni Educar LTDA
-
-
-3) Rotinas em R	
-
-	Rotinas de pré-processamento de dados, mineração de dados (principalmente mineração de padrões), confecção de gráficos, entre outros
-
-	Material relacionado ao projeto de mestrado, em mineração de dados de malária
-
-
-4) Criação de sites wordpress
-
-5) Apresentações e Artigos de Revistas, Congressos e Outros Eventos
